@@ -1,7 +1,7 @@
 <html>
-    <head>
+ 
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    </head>
+    
 <body>
 
 <h1>Мой первый заголовок</h1>
@@ -10,11 +10,3 @@
 
 </body>
 </html>
-```html
-
-
-    <head>
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    </head>
-    <input type="text">
-```
